@@ -1,7 +1,7 @@
 import { t, type Dictionary } from 'intlayer';
 
 const appContent = {
-  key: 'app',
+  key: 'app1',
   content: {
     hello: t({
       en: 'Hello',
